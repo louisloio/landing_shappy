@@ -1,6 +1,3 @@
-body{
-    overflow-x: hidden;
-}
 
 .hero{
     background-position: center;
@@ -52,8 +49,8 @@ body{
     left:15px;
     border-radius: 12px;
     box-shadow: 0 4px 5px -2px rgb(0 0 0 / 10%), 0 7px 10px 1px rgb(0 0 0 / 7%), 0 2px 16px 1px rgb(0 0 0 / 6%);
-    animation-duration: 300ms !important;
-    animation-delay: 400ms !important;
+    animation-duration: 700ms !important;
+    animation-delay: 200ms !important;
     transform-origin: 150px;
 }
 
@@ -61,7 +58,7 @@ body{
     position: absolute;
     z-index: 100;
     top: 0;
-    left: 3.375rem;
+    left: 5.375rem;
     border-radius: 8px;
     box-shadow: 0 2px 4px -1px rgb(0 0 0 / 10%), 0 4px 5px 0 rgb(0 0 0 / 7%), 0 1px 10px 0 rgb(0 0 0 / 6%);
     animation-duration: 700ms !important;
@@ -71,10 +68,10 @@ body{
     position: absolute;
     z-index: 300;
     top: 4.875rem;
-    right: 2rem;
+    right: 0rem;
     border-radius: 8px;
     box-shadow: 0 3px 5px -1px rgb(0 0 0 / 10%), 0 5px 8px 0 rgb(0 0 0 / 7%), 0 1px 14px 0 rgb(0 0 0 / 6%);
-    animation-duration: 600ms !important;
+    animation-duration: 700ms !important;
     animation-delay: 100ms !important;
     transform-origin: 0px;
 }
